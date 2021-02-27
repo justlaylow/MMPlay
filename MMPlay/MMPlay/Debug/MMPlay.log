@@ -1,0 +1,10 @@
+﻿  Reading Qt configuration (E:/QTCreater/5.12.10/msvc2017/bin/qmake)
+  uic MMPlay.ui
+  rcc MMPlay.qrc
+  moc MMPlay.h
+   RCC: Warning: No resources in 'E:\workspace\src\MMPlay\MMPlay\MMPlay.qrc'.
+  MMPlay.cpp
+  main.cpp
+  qrc_MMPlay.cpp
+  moc_MMPlay.cpp
+  MMPlay.vcxproj -> E:\workspace\src\MMPlay\Debug\MMPlay.exe

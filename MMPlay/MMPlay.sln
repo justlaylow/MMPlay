@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1401
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MMPlay", "MMPlay\MMPlay.vcxproj", "{FD4B308D-2D05-40BC-98EB-5208992674A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD4B308D-2D05-40BC-98EB-5208992674A2}.Debug|x86.ActiveCfg = Debug|Win32
+		{FD4B308D-2D05-40BC-98EB-5208992674A2}.Debug|x86.Build.0 = Debug|Win32
+		{FD4B308D-2D05-40BC-98EB-5208992674A2}.Release|x86.ActiveCfg = Release|Win32
+		{FD4B308D-2D05-40BC-98EB-5208992674A2}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7413A8B4-4993-4614-81AA-28457C301EF2}
+	EndGlobalSection
+EndGlobal
